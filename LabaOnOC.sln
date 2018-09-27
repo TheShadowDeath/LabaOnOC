@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LabaOnOC", "LabaOnOC\LabaOnOC.pyproj", "{5CF957D0-3EB6-431D-B8F6-672E37DCB473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF957D0-3EB6-431D-B8F6-672E37DCB473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF957D0-3EB6-431D-B8F6-672E37DCB473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D66DE6-E9E9-451D-91A6-23E881A009C3}
+	EndGlobalSection
+EndGlobal
